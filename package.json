@@ -22,7 +22,7 @@
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^21.0.1",
-		"@commitlint/config-conventional": "^21.0.2",
+		"@commitlint/config-conventional": "^21.0.1",
 		"@vitejs/plugin-vue": "^6.0.7",
 		"@vitest/coverage-v8": "^4.1.7",
 		"@vue/test-utils": "^2.4.10",
@@ -49,5 +49,5 @@
 	"overrides": {
 		"eslint-plugin-mediawiki": "0.8.2"
 	},
-	"version": "3.16.1"
+	"version": "3.17.0"
 }
